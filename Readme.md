@@ -42,6 +42,7 @@
 
 **CMS**
 [![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
+<code><img height="20" src="octobercms.png"></code>
 [![OctoberCMS](<img height="30" src="octobercms.png?raw=true">)](https://github.com/lucenarenato/)
 
 **Operational System**
