@@ -1,7 +1,12 @@
 # Hi, I'm Renato Lucena 
 
+📍 Goiânia, Goias - Brazil.
+
 [![lucenarenato.dev](https://img.shields.io/static/v1?label=Blog%20-%20blog.renatolucena.net&message=%20&color=pink&style=flat-square&logoColor=white)](https://blog.renatolucena.net/)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/renato-de-oliveira-lucena-33777133/)
+
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/renatolucena38)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cpdrenato)
 
 ## About me
 
