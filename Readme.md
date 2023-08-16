@@ -64,8 +64,7 @@ Here are a few things I've picked up along my learning journey.
 
 **CMS**
 - [![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
-<code><img height="20" src="octobercms.png"></code>
-- [![OctoberCMS](<img height="30" src="octobercms.png?raw=true">)](https://github.com/lucenarenato/)
+- <code><img height="20" src="octobercms.png"></code>[![OctoberCMS](<img height="30" src="octobercms.png?raw=true">)](https://github.com/octobercms/october)
 
 **Operational System**
 - [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://www.vivaolinux.com.br/)](https://www.vivaolinux.com.br/script/Escolha-a-versao-do-PHP/)
