@@ -32,6 +32,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://camo.githubusercontent.com/484609ae47a588275b9138705d525278ef12490a93e7505df9726e23664c1b33/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6167656e746f2d322e582d627269676874677265656e2e7376673f6c6f676f3d6d6167656e746f266c6f6e6743616368653d74727565"></code>
 
 ## 👉 Tech Stack
 
@@ -46,14 +47,14 @@ Here are a few things I've picked up along my learning journey.
 ![Wordpress](https://img.shields.io/badge/Wordpress-23282d?style=for-the-badge&logo=wordpress&logoColor=white)
 
 **Others Technologies**
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
+- [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
+- [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://www.docker.com/)](https://www.docker.com/)
 
 **Database**
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
-[![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
-[![Oracle](https://img.shields.io/badge/-oracle-a0c4db?style=flat-square&logo=oracle&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
+- [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://www.mongodb.com/)](https://www.mongodb.com/)
+- [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://www.postgresql.org/)](https://www.postgresql.org/)
+- [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql&link=https://www.mysql.com/)](https://www.mysql.com/)
+- [![Oracle](https://img.shields.io/badge/-oracle-a0c4db?style=flat-square&logo=oracle&link=https://www.oracle.com/br/)](https://www.oracle.com/br/)
 
 **CMS**
 [![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
@@ -61,11 +62,11 @@ Here are a few things I've picked up along my learning journey.
 [![OctoberCMS](<img height="30" src="octobercms.png?raw=true">)](https://github.com/lucenarenato/)
 
 **Operational System**
-[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://www.vivaolinux.com.br/)](https://www.vivaolinux.com.br/script/Escolha-a-versao-do-PHP/)
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
+- [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://www.vivaolinux.com.br/)](https://www.vivaolinux.com.br/script/Escolha-a-versao-do-PHP/)
+- [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
 
 **IDE**
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
+- [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
 
 **Versioning and Communication**
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
@@ -96,5 +97,12 @@ Here are a few things I've picked up along my learning journey.
 </p>
 
 - [![Laravel.io]](https://github.com/laravelio/portal) - The Laravel community portal
+
+## Phrases (Frases)
+
+ <strong>Knowledge is not taken to the grave.</strong>
+ <strong>Conhecimento não se Leva para o Túmulo.</strong>
+
+**Não leve o que sabe para o túmulo consigo, pois o conhecimento só serve para os vivos.**
 
 ⭐️ From [Renato Lucena](https://github.com/lucenarenato)
