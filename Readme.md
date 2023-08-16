@@ -12,7 +12,7 @@
 
  <strong>I'm a Fullstack Developer</strong>
 
-:page_with_curl: **I'm weekly posting tips from the world of technology on [LinkedIn](https://www.linkedin.com/in/renato-de-oliveira-lucena-33777133/)**
+:page_with_curl: **I'm weekly posting tips from the world of technology on [LinkedIn](https://www.linkedin.com/in/renato-lucena-33777133/)**
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=lucenarenato&show_icons=true">
 
