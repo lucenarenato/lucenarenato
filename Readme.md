@@ -3,7 +3,7 @@
 📍 Goiânia, Goias - Brazil.
 
 [![lucenarenato.dev](https://img.shields.io/static/v1?label=Blog%20-%20blog.renatolucena.net&message=%20&color=pink&style=flat-square&logoColor=white)](https://blog.renatolucena.net/)
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/renato-de-oliveira-lucena-33777133/)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/renato-lucena-33777133/)
 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/renatolucena38)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cpdrenato)
@@ -47,9 +47,7 @@ Here are a few things I've picked up along my learning journey.
 
 **Others Technologies**
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
-[![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
-[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
 
 **Database**
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
@@ -63,7 +61,7 @@ Here are a few things I've picked up along my learning journey.
 [![OctoberCMS](<img height="30" src="octobercms.png?raw=true">)](https://github.com/lucenarenato/)
 
 **Operational System**
-[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
+[![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://www.vivaolinux.com.br/)](https://www.vivaolinux.com.br/script/Escolha-a-versao-do-PHP/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
 
 **IDE**
@@ -71,10 +69,10 @@ Here are a few things I've picked up along my learning journey.
 
 **Versioning and Communication**
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://gitlab.com/cpdrenato/)](https://gitlab.com/cpdrenato/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&link=https://bitbucket.org/cpdrenato)](https://bitbucket.org/cpdrenato)
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&link=https://atlassian.net/jira)](https://atlassian.net/jira)
 [![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
 
 ## 📝  Latest Blog Posts
@@ -92,15 +90,11 @@ Here are a few things I've picked up along my learning journey.
 - [Brazilian Form Fields](https://filamentphp.com/plugins/brazilian-form-fields)
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/renato-de-oliveira-lucena-33777133/"><img height="30" src="linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/renato-lucena-33777133/"><img height="30" src="linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:cpdrenato@gmail.com"><img height="30" src="mail.png?raw=true"></a>
 <a href="https://blog.renatolucena.net"><img height="30" src="blog.png?raw=true"></a>
 </p>
 
-- [Laravel.io](https://github.com/laravelio/portal) - The Laravel community portal
-
-<p>
-[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-</p>
+- [![Laravel.io]](https://github.com/laravelio/portal) - The Laravel community portal
 
 ⭐️ From [Renato Lucena](https://github.com/lucenarenato)
