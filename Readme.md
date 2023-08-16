@@ -5,9 +5,6 @@
 [![lucenarenato.dev](https://img.shields.io/static/v1?label=Blog%20-%20blog.renatolucena.net&message=%20&color=pink&style=flat-square&logoColor=white)](https://blog.renatolucena.net/)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/renato-lucena-33777133/)
 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/renatolucena38)
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cpdrenato)
-
 ## About me
 
  <strong>I'm a Fullstack Developer</strong>
@@ -15,6 +12,12 @@
 :page_with_curl: **I'm weekly posting tips from the world of technology on [LinkedIn](https://www.linkedin.com/in/renato-lucena-33777133/)**
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=lucenarenato&show_icons=true">
+<br>
+<div  style="display: inline_block;">
+<img  width="400em" src="https://github-readme-stats.vercel.app/api?username=lucenarenato&show_icons=true&theme=tokyonight"/>
+<img height="150em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucenarenato&layout=compact&theme=tokyonight"/>
+</div>
+<br>
 
 ## Languages and Technologies I use daily
 
@@ -50,6 +53,9 @@ Here are a few things I've picked up along my learning journey.
 - [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
 - [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://www.docker.com/)](https://www.docker.com/)
 
+- [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/renatolucena38)
+- [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cpdrenato)
+
 **Database**
 - [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://www.mongodb.com/)](https://www.mongodb.com/)
 - [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://www.postgresql.org/)](https://www.postgresql.org/)
@@ -57,9 +63,9 @@ Here are a few things I've picked up along my learning journey.
 - [![Oracle](https://img.shields.io/badge/-oracle-a0c4db?style=flat-square&logo=oracle&link=https://www.oracle.com/br/)](https://www.oracle.com/br/)
 
 **CMS**
-[![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
+- [![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
 <code><img height="20" src="octobercms.png"></code>
-[![OctoberCMS](<img height="30" src="octobercms.png?raw=true">)](https://github.com/lucenarenato/)
+- [![OctoberCMS](<img height="30" src="octobercms.png?raw=true">)](https://github.com/lucenarenato/)
 
 **Operational System**
 - [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://www.vivaolinux.com.br/)](https://www.vivaolinux.com.br/script/Escolha-a-versao-do-PHP/)
@@ -90,6 +96,8 @@ Here are a few things I've picked up along my learning journey.
 - [Filament Apex Charts](https://filamentphp.com/plugins/apex-charts)
 - [Brazilian Form Fields](https://filamentphp.com/plugins/brazilian-form-fields)
 
+<br>
+
 <p align='center'>
 <a href="https://www.linkedin.com/in/renato-lucena-33777133/"><img height="30" src="linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:cpdrenato@gmail.com"><img height="30" src="mail.png?raw=true"></a>
@@ -98,11 +106,15 @@ Here are a few things I've picked up along my learning journey.
 
 - [![Laravel.io]](https://github.com/laravelio/portal) - The Laravel community portal
 
+<br>
+
 ## Phrases (Frases)
 
  <strong>Knowledge is not taken to the grave.</strong>
  <strong>Conhecimento não se Leva para o Túmulo.</strong>
 
 **Não leve o que sabe para o túmulo consigo, pois o conhecimento só serve para os vivos.**
+
+<br>
 
 ⭐️ From [Renato Lucena](https://github.com/lucenarenato)
