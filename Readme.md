@@ -2,7 +2,7 @@
 
 📍 Goiânia, Goias - Brazil.
 
-[![lucenarenato.dev](https://img.shields.io/static/v1?label=Blog%20-%20blog.renatolucena.net&message=%20&color=pink&style=flat-square&logoColor=white)](https://blog.renatolucena.net/)
+[![lucenarenato.dev](https://img.shields.io/static/v1?label=Blog%20-%20blog.rlucena.com&message=%20&color=pink&style=flat-square&logoColor=white)](https://blog.rlucena.com/)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/renato-lucena-33777133/)
 
 ## About me
@@ -100,7 +100,7 @@ Here are a few things I've picked up along my learning journey.
 <p align='center'>
 <a href="https://www.linkedin.com/in/renato-lucena-33777133/"><img height="30" src="linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:cpdrenato@gmail.com"><img height="30" src="mail.png?raw=true"></a>
-<a href="https://blog.renatolucena.net"><img height="30" src="blog.png?raw=true"></a>
+<a href="https://blog.rlucena.com"><img height="30" src="blog.png?raw=true"></a>
 </p>
 
 - [![Laravel.io]](https://github.com/laravelio/portal) - The Laravel community portal
