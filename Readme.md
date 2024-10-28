@@ -2,7 +2,7 @@
 
 📍 Goiânia, Goias - Brazil.
 
-[![lucenarenato.dev](https://img.shields.io/static/v1?label=Blog%20-%20blog.rlucena.com&message=%20&color=pink&style=flat-square&logoColor=white)](https://blog.rlucena.com/)
+[![lucenarenato.dev](https://img.shields.io/static/v1?label=Blog%20-%20blog.rlucena.com&message=%20&color=pink&style=flat-square&logoColor=white)](https://rlucena.com/)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/renato-lucena-33777133/)
 
 ## About me
