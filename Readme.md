@@ -2,7 +2,7 @@
 
 📍 Goiânia, Goias - Brazil.
 
-[![lucenarenato.dev](https://img.shields.io/static/v1?label=Blog%20-%20blog.rlucena.com&message=%20&color=pink&style=flat-square&logoColor=white)](https://rlucena.com/)
+[![lucenarenato.dev](https://img.shields.io/static/v1?label=Blog%20-%20rlucena.com&message=%20&color=pink&style=flat-square&logoColor=white)](https://rlucena.com/)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/renato-lucena-33777133/)
 
 ## About me
@@ -29,12 +29,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://camo.githubusercontent.com/484609ae47a588275b9138705d525278ef12490a93e7505df9726e23664c1b33/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6167656e746f2d322e582d627269676874677265656e2e7376673f6c6f676f3d6d6167656e746f266c6f6e6743616368653d74727565"></code>
 
 ## 👉 Tech Stack
@@ -64,7 +61,7 @@ Here are a few things I've picked up along my learning journey.
 
 **CMS**
 - [![Wordpress](https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=Wordpress&link=https://github.com/lucenarenato/)](https://github.com/lucenarenato/)
-- <code><img height="20" src="octobercms.png"></code>[![OctoberCMS](<img height="30" src="octobercms.png?raw=true">)](https://github.com/octobercms/october)
+- <code><img height="20" src="octobercms.png"></code>[![OctoberCMS]](https://github.com/octobercms/october)
 
 **Operational System**
 - [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://www.vivaolinux.com.br/)](https://www.vivaolinux.com.br/script/Escolha-a-versao-do-PHP/)
@@ -100,7 +97,7 @@ Here are a few things I've picked up along my learning journey.
 <p align='center'>
 <a href="https://www.linkedin.com/in/renato-lucena-33777133/"><img height="30" src="linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:cpdrenato@gmail.com"><img height="30" src="mail.png?raw=true"></a>
-<a href="https://blog.rlucena.com"><img height="30" src="blog.png?raw=true"></a>
+<a href="https://rlucena.com"><img height="30" src="blog.png?raw=true"></a>
 </p>
 
 - [![Laravel.io]](https://github.com/laravelio/portal) - The Laravel community portal
