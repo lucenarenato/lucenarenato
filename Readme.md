@@ -19,6 +19,19 @@
 </div>
 <br>
 
+###
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucenarenato&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph) 
+###
+
+<div>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucenarenato&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  !
+</div>
+ 
+ 
+ ##
+
 ## Languages and Technologies I use daily
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
